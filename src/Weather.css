@@ -1,0 +1,58 @@
+.App h1 {
+  text-align: center;
+}
+
+.App h2 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  font-size: 20px;
+  line-height: 3.5em;
+  font-family: monospace;
+}
+
+.col-sm-6 {
+  max-width: 26rem;
+}
+.card {
+  height: 350px;
+  margin-top: 30px;
+}
+
+.card-text {
+  font-size: 16px;
+}
+
+.title {
+  font-size: 38px;
+  margin-bottom: 50px;
+}
+
+.title .active {
+  color: black;
+  cursor: defaultl;
+}
+
+.title .active:hover {
+  text-decoration: none;
+}
+
+#measurement {
+  font-size: 20px;
+}
+
+#condition {
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
+#weather-icon {
+  font-size: 150px;
+}
+
+.Container {
+  text-align: centre;
+}
