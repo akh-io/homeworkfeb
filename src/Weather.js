@@ -52,6 +52,7 @@ export default function Weather() {
                   <li>Wind:{weatherData.wind}km/h</li>
                 </ul>
         </Col>
+        <a href="https://github.com/akh-io/homeworkfeb">Open Source</a> Coded by Akiho 
       </Row>
     </Container>
     </div>
